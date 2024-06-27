@@ -1,6 +1,6 @@
 import "pe"
 
-rule TrueSight_Vuln_Driver{
+rule TrueSight_Vuln_Driver {
     meta:
         description = "Vulnerable Truesight driver, may be used to disable AV products."
         author = "sudoREM"
